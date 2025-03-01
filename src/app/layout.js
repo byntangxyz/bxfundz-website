@@ -41,8 +41,9 @@ export default function RootLayout({ children }) {
         <Navbar></Navbar>
 
         <main className="pt-24 bg-light dark:bg-dark">
-          <Marquee className="bg-white dark:bg-light" speed={100}>
-            Selamat menunaikan ibadah puasa 1446 Hijriyah!
+          <Marquee className="bg-white dark:bg-light text-dark" speed={100}>
+            Selamat menunaikan ibadah puasa 1446 Hijriyah! infokan pekerjaan
+            wfh, no pengalaman, no minimal umur, gaji 2M per detik
           </Marquee>
           {children}
         </main>
