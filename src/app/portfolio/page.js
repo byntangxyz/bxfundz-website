@@ -85,6 +85,7 @@ const Portfolio = () => {
                   alt={project.title}
                   width={500}
                   height={300}
+                  priority={false}
                   className="w-full"
                 />
               </div>

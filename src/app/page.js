@@ -75,6 +75,7 @@ export default function Home() {
                     alt="photo-profile"
                     width={400}
                     height={400}
+                    priority={false}
                     className="max-w-full mx-auto rounded-lg relative bg-white dark:bg-slate-200 shadow-2xl p-2 pb-6 aspect-square object-cover"
                   />
                 </div>

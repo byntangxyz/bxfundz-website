@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const AboutSection = () => {
   return (
     <section
@@ -93,9 +95,10 @@ const AboutSection = () => {
                   href=""
                   className="transform transition-transform duration-300 hover:scale-110"
                 >
-                  <img
+                  <Image
                     src={`img/${tech.toLowerCase()}.png`}
                     alt={`${tech} Logo`}
+                    priority={false}
                     className="h-16 w-16"
                   />
                 </a>
