@@ -72,7 +72,7 @@ const Navbar = () => {
               href="/"
               className="font-bold text-3xl block py-6 px-4 text-primary dark:text-blue-400"
             >
-              byntangxyz
+              BxFundz
             </Link>
           </div>
           <div className="flex items-center px-4 lg:px-1">
