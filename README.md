@@ -9,16 +9,13 @@ Well guys you know as Frontend developer we need beautiful personal website righ
 - Add blog content with MDX <br />
   build with Gray Matter, MDX react
 
-- Dynamic Sitemap
-
+- Dynamic Sitemap <br />
 sitemap will automaticly generated when we build the app
 
-- SEO Optimalized 
-
+- SEO Optimalized <br />
   now i'm focussing on SEO because my old website doenst even exist in google index
 
-- Lazy and Low Resource Image
-
+- Lazy and Low Resource Image <br />
   for better SEO, google said that we need to optimalized the content image
 
 ## Framework & Library 
