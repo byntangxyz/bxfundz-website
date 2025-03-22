@@ -10,10 +10,10 @@ Well guys you know as Frontend developer we need beautiful personal website righ
   build with Gray Matter, MDX react
 
 - Dynamic Sitemap <br />
-sitemap will automaticly generated when we build the app
+sitemap will automaticly generated when the app builded
 
 - SEO Optimalized <br />
-  now i'm focussing on SEO because my old website doenst even exist in google index
+  now i'm focussing on SEO because my old website doens't even exist in google index
 
 - Lazy and Low Resource Image <br />
   for better SEO, google said that we need to optimalized the content image
