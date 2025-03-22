@@ -4,14 +4,14 @@ Well guys you know as Frontend developer we need beautiful personal website righ
 
 ## Changelog
 
-### v4.1 
-- Add blog content with MDX
+### v4.1
 
+- Add blog content with MDX <br />
   build with Gray Matter, MDX react
 
 - Dynamic Sitemap
 
-  sitemap will automaticly generated when we build the app
+sitemap will automaticly generated when we build the app
 
 - SEO Optimalized 
 
