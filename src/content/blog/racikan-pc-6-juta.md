@@ -22,7 +22,7 @@ Yohooo! 2025 #mendingrakitpc! kenapa? Komponen pc telah mengalami penurunan harg
 
 ## Daftar harga
 
-- Intel Core i5 12100F Tray: 1.500.000 [Link Pembelian](https://tokopedia.link/JcvFv34tqSb)
+- Intel Core i5 12400F Tray: 1.500.000 [Link Pembelian](https://tokopedia.link/JcvFv34tqSb)
 - ASRock H610M HDV: 950.000 [Link Pembelian](http://bit.ly/3Ra5to4)
 - Adata Gammix D35 2x8gb 3200MT/s: 450.000 [Link Pembelian](https://tokopedia.link/AJkcxdZvqSb)
 - Team MP33 M.2 NVME 512GB: 465.000 [Link Pembelian](https://tokopedia.link/RbDKbpawqSb)
