@@ -96,10 +96,12 @@ const AboutSection = () => {
                   className="transform transition-transform duration-300 hover:scale-110"
                 >
                   <Image
-                    src={`img/${tech.toLowerCase()}.png`}
+                    src={`/img/${tech.toLowerCase()}.png`}
                     alt={`${tech} Logo`}
                     priority={false}
                     className="h-16 w-16"
+                    width={100}
+                    height={100}
                   />
                 </a>
               ))}
