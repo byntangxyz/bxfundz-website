@@ -90,9 +90,7 @@ Per bulan (30 hari):
 
 Tarif dasar listrik Indonesia (rumah tangga R1) biasanya sekitar Rp1.444,70 per kWh (per April 2025, bisa berbeda tergantung wilayah dan daya listrik).
 
-```
 Biaya bulanan: 72 kWh × Rp1.444,70 ≈ Rp104.018
-```
 
 ## Kesimpulan
 
