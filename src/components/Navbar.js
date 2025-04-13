@@ -134,7 +134,7 @@ const Navbar = () => {
                 </li>
                 <li className="group">
                   <a
-                    href="https://bxlinks.vercel.app"
+                    href="https://links.bxfundz.my.id"
                     target="_blank"
                     className="text-base text-black py-2 mx-8 flex group-hover:text-blue-400 dark:text-white"
                   >
