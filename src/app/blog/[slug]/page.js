@@ -125,6 +125,24 @@ export default async function BlogPost({ params }) {
                 <br />
               </>
             ),
+            code({ node, inline, className, children, ...props }) {
+              const match = /language-(\w+)/.exec(className || "");
+
+              return !inline ? (
+                <pre className="rounded-lg bg-gray-800 p-4 overflow-auto my-4 text-sm text-gray-200">
+                  <code className={className} {...props}>
+                    {children}
+                  </code>
+                </pre>
+              ) : (
+                <code
+                  className="bg-gray-700 text-orange-400 px-1 py-0.5 rounded"
+                  {...props}
+                >
+                  {children}
+                </code>
+              );
+            },
           }}
         >
           {content}
