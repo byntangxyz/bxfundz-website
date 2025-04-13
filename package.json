@@ -17,6 +17,7 @@
     "framer-motion": "^12.4.7",
     "gray-matter": "^4.0.3",
     "next": "15.2.0",
+    "phosphor-react": "^1.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-fast-marquee": "^1.6.5",

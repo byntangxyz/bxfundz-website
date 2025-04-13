@@ -1,4 +1,12 @@
+"use client";
+
 import Image from "next/image";
+import {
+  InstagramLogo,
+  TiktokLogo,
+  GithubLogo,
+  YoutubeLogo,
+} from "phosphor-react";
 
 const AboutSection = () => {
   return (
@@ -113,15 +121,18 @@ const AboutSection = () => {
                 social media:
               </p>
               <div className="sosmed text-6xl gap-4 flex">
-                <a
-                  href="https://www.tiktok.com/@byntangxyz_"
-                  target="_blank"
-                ></a>
-                <a
-                  href="https://www.instagram.com/byntangxyz"
-                  target="_blank"
-                ></a>
-                <a href="https://github.com/byntangxyz" target="_blank"></a>
+                <a href="https://www.tiktok.com/@byntangxyz_" target="_blank">
+                  <TiktokLogo size={48} />
+                </a>
+                <a href="https://www.youtube.com/@byntangxyzz" target="_blank">
+                  <YoutubeLogo size={48} />
+                </a>
+                <a href="https://www.instagram.com/byntangxyz" target="_blank">
+                  <InstagramLogo size={48} />
+                </a>
+                <a href="https://github.com/byntangxyz" target="_blank">
+                  <GithubLogo size={48} />
+                </a>
               </div>
             </div>
           </div>
