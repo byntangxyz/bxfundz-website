@@ -16,11 +16,11 @@ export default function Home() {
     // Inisialisasi Typed.js
     const typed = new Typed(typedRef.current, {
       strings: [
-        "Web Developer",
+        "Website Developer",
         "A.I Engineering",
-        "Student",
+        "Technical High School Student",
         "Tech Enthusiast",
-        "Photographer",
+        "PC Builder",
       ],
       typeSpeed: 100,
       backSpeed: 50,
